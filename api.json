@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nombreU": "Diego Alexander",
+      "apellidoU": "Gutierrez Sandoval",
+      "direccion": "Calle 124 #65-78",
+      "fecnaci": "2003-06-23",
+      "region": "Orinoquia",
+      "telefono": "3209034050",
+      "emailU": "diegogut@gmail.com"
+    },
+    {
+      "id": 2,
+      "tipodoc": "Cedula de Cuidadania",
+      "numdoc": "1031610318",
+      "nombreU": "Flor Ligia",
+      "apellidoU": "Camacho Herrera",
+      "fecnaci": "1968-08-10",
+      "emailU": "florlic@gmail.com",
+      "password": "rty456"
+    },
+    {
+      "id": 3,
+      "tipodoc": "Cedula de Cuidadania",
+      "numdoc": "1031610318",
+      "nombreU": "Luisa ",
+      "apellidoU": "Camacho Herrera",
+      "fecnaci": "2023-08-10",
+      "emailU": "florlic@gmail.com",
+      "password": "rty456"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nomPro": "Cocada",
+      "categoria": "Dulce duro",
+      "precio": "200000",
+      "descripcion": "Hecha de coco"
+    },
+    {
+      "id": 2,
+      "nomPro": "Repollas",
+      "categoria": "Dulce duro",
+      "precio": "1000",
+      "descripcion": "Relleno de arequipe"
+    }
+  ],
+  "cliente": [
+    {
+      "id": 1,
+      "nombreU": "Juan Felipe",
+      "apellidoU": "Pulido Muñoz",
+      "direccion": "Calle 124 #65-78",
+      "telefono": "3209034050",
+      "emailU": "diegogut@gmail.com",
+      "pedido": "una caja de cocadas",
+      "metPago": "Efectivo"
+    }
+  ],
+  "compras":[
+    {
+     "id":1,
+     "nomCo":"Paquete de arequipe",
+     "fecCo":"2013-02-15",
+     "preCo":"10000"
+    },
+    {
+        "id":2,
+        "nomCo":"Paquete de bocadillo",
+        "fecCo":"2023-12-15",
+        "preCo":"4200"
+       },
+       {
+        "id":3,
+        "nomCo":"un bombon",
+        "fecCo":"2022-02-85",
+        "preCo":"3500"
+       }
+  ]
+}
